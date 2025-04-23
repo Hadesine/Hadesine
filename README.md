@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hadesine
-- 👀 I’m interested in bioinformatics and ML
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Hiranmayi.
+- 👀 I’m interested in research and bioinformatics
+- 🌱 I’m currently learning Python and Bash scripting.
 - 💞️ I’m looking to collaborate on bioinformatics projects like genome analysis
 - 📫 How to reach me - www.linkedin.com/in/hiranmayidsr
 -  :D I am open to learn anything new and exciting in the field
